@@ -16,3 +16,6 @@ En mettant en place un réseau de neurones convolutionnels, apprenez à classifi
 Ré-entrainez un modèle TensorFlow existant pour le spécialiser avec votre dataset
 
 *Pré-requis : avoir un compte Google => Utilisation de Google Collab*
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaudevart/devoxx2021-TF/)
